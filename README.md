@@ -2,6 +2,8 @@
 
 Manage your Italian e-invoicing and taxes with [Onesto](https://onesto.it) directly from Raycast: browse unpaid invoices, issue electronic invoices to SDI, keep an eye on tax deadlines and F24s — without opening the browser.
 
+Official extension, published on the Raycast Store by [onesto.it](https://www.raycast.com/onesto.it).
+
 ## Commands
 
 - **Unpaid Invoices** — open and overdue invoices with the amount still due; open the PDF or register a payment in two keystrokes.
